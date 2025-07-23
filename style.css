@@ -92,16 +92,6 @@ h2 {
   display: inline-block;
 }
 
-h2::after {
-  content: '';
-  position: absolute;
-  bottom: -8px;
-  left: 0;
-  width: 270px;
-  height: 4px;
-  background-color: var(--black);
-}
-
 h3 {
   font-size: 1.5rem;
 }
