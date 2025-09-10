@@ -266,7 +266,7 @@ body.dark-mode {
   }
 
   .about-content h2 {
-    font-size: 1.5rem;
+    font-size: 45px;
   }
 
   .about-content p {
@@ -1355,6 +1355,7 @@ main#home {
 #send-btn:hover {
   opacity: 0.8;
 }
+
 
 
 
