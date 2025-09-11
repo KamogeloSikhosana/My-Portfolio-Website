@@ -22,7 +22,10 @@
   cursor: pointer;
   color: var(--text-color, #222);
 }
-
+h5 {
+    font-size: 30px;
+    color: #ffc722;
+}
 /* Responsive Menu */
 @media (max-width: 768px) {
   .nav-toggle {
